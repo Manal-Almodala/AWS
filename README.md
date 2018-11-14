@@ -11,3 +11,12 @@ b.	https://amazon.qwiklabs.com/quests/20?locale=en
 4.	Code from Hans-on Labs (https://aws.amazon.com/serverless-workshops/)
 a.	https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication
 b.	https://github.com/aws-samples/aws-lambda-zombie-workshop
+
+
+# Autoencoder:
+
+https://blog.csdn.net/changyuanchn/article/details/15681853
+
+https://github.com/snatch59/keras-autoencoders
+https://blog.keras.io/building-autoencoders-in-keras.html
+https://github.com/keras-team/keras/tree/master/examples
