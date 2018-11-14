@@ -23,5 +23,9 @@ https://blog.keras.io/building-autoencoders-in-keras.html
 
 https://github.com/keras-team/keras/tree/master/examples
 
+https://www.kaggle.com/apapiu/manifold-learning-and-autoencoders
+
+https://www.kaggle.com/rvislaywade/visualizing-mnist-using-a-variational-autoencoder
+
 # KS test
 https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
