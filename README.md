@@ -20,3 +20,6 @@ https://blog.csdn.net/changyuanchn/article/details/15681853
 https://github.com/snatch59/keras-autoencoders
 https://blog.keras.io/building-autoencoders-in-keras.html
 https://github.com/keras-team/keras/tree/master/examples
+
+# KS test
+https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
