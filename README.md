@@ -27,5 +27,7 @@ https://www.kaggle.com/apapiu/manifold-learning-and-autoencoders
 
 https://www.kaggle.com/rvislaywade/visualizing-mnist-using-a-variational-autoencoder
 
+https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+
 # KS test
 https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
