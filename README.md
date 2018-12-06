@@ -31,3 +31,12 @@ https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in
 
 # KS test
 https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
+
+
+# Optimization Methods
+•	https://towardsdatascience.com/neural-network-optimization-algorithms-1a44c282f61d
+•	https://arxiv.org/abs/1609.04747
+•	http://cs231n.github.io/neural-networks-3/
+•	https://theberkeleyview.wordpress.com/2015/11/19/berkeleyview-for-adam-a-method-for-stochastic-optimization/
+•	https://www.coursera.org/lecture/deep-neural-network/adam-optimization-algorithm-w9VCZ
+•	http://ruder.io/optimizing-gradient-descent/
